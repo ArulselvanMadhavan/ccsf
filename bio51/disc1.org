@@ -1,0 +1,21 @@
+* Who has access to my genetic information and should they?
+  Having access to genetic information could be of two nature.
+  - With Consent
+    - People submitting their genetic information voluntarily
+    - Example: Ancestry, 23AndMe etc.,
+  - Without Consent
+    - Collected by the state
+      - Example: Under some security laws
+    - Malicious users/companies tracking people without their consent
+  - Can people be tracked without their consent?
+    - Yes. There has been reports of governments using the data of their own citizens and also trying to get their hands on data of foreign nationals. I won't include the name of the country since it hasn't been officially proved yet and may very well never be. But the propaganda messaging is already there and it's up to us if we want to believe it.
+    - Can someone else submit my DNA and get genetic testing?
+      - This is more sinister. But I tried to look into this and haven't been able to find any information about this in Ancestry.
+    - Will the law protect me in this case?
+      - No. [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2563345/][Human Tissue Act]] allows a genetic test to be carried out without the consent of the donor.
+    - Will the law protect me against discrimination based on genetic information?
+      - [[https://www.hhs.gov/hipaa/for-professionals/special-topics/genetic-information/index.html][GINA]] provides discrimination based on genetic information
+** Should they?
+   - Genetic testing sector is yet another sector that hides behind the "tech for human good" and allows itself to run things for profit without fully realizing the consequences of its actions. So, my answer is No. People who sign up for genetic testing are providing their information for a specific purpose. Expecting them to fully go through the pages of documents is not realistic. It's not because people don't understand what they are getting into. It's because the scenarios most people enter into this situation is not conducive for getting real consent. "Do you agree to this 200 pages of privacy policy statement, before signing up for an account, while you are waiting for the traffic lights to turn green?". So, using the argument of patient provided consent once, so we are going to go ahead and use their information is not going to work.
+   - "Delete Me" requests. Users should be given the option to delete their genetic information from every single database that has their information stored. Don't say it can't be done. It's been done in other sectors. Ex: GDPR. While the efficacy of this is still in question, it is a step in the right direction
+   - Giving genetic information for advancement of humanity. This is a different cause and people should have the option to choose who they give it to. A research conducted by a publicly funded team might be more appealing and better suited to research about improving human lives than a company. It's one point of view. There are points of views that think governments are just as crooked as private companies. Being sympathetic to one or the other is people's preference but at the end of the day, giving people the option to meaningfully consent, maintain and delete their information is the direction I would steer towards.

@@ -1,0 +1,11 @@
+* Equations of Lines in Space
+** Cross Product
+*** Properties
+    - vxu = - uxv
+    - ku x v = k(uxv) = u x kv
+    - |uxv| = |u||v|sin(theta) - area of the parallelogram
+    - (uxv).w = |(uxv).w|=|uxv||w||cos(theta)|
+* Equation of planes
+  - n.PQ = <a,b,c>.<x-x0,y-y0,z-z0>
+* Equation of line
+  - L(t) = v + tu

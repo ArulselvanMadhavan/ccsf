@@ -1,0 +1,25 @@
+* 2D Vectors
+  - magnitude + direction
+  - rep by arrows, x, y components
+  - unit vector: v^ = v/|v|
+  - circle with radius = 1
+  - initial and terminal points
+  - all start at origin
+    - they don't have to start to origin
+* Vector addition
+  - a + b forms the diagonal of a parallelogram
+  - IP: IP of a -> TP of copy of b
+  - a - b forms the other diagonal of the same parallelogram
+  - IP: terminal point of b -> terminal point of a
+  - b - a = - (a - b)
+* Dot product
+  - a . b = 0 => a and b are perpendicular
+  - theta = arccos((a.b)/|a||b|)
+  - proj_a(b) = ka
+  - k = (b.a/(a.a))
+* 3D equations and their graphs
+  - y = z
+    - (0,1,1)
+  - x = z
+  - y = x
+  - 
