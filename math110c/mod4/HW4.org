@@ -1,0 +1,7 @@
+- [[https://geogebra.org/classic/yyxh2xu3][Q2]]
+- [[https://geogebra.org/classic/u9fnxxjd][Q3]]
+  - k(s) = |T'(s)|
+  - k = (v x a)/v^3
+  - torsion = ((v x a) . a')/|v x a|^2
+- [[https://geogebra.org/classic/f6tyksaj][Q4]]
+- 

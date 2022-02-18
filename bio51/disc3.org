@@ -1,2 +1,9 @@
 * Congenital Rubella Syndrome - A virus teratogen
 CRS is one of the first viruses to be identified as a teratogen. The primary agent of the Rubella virus is environmental. Proving CRS opened up the possibility that environmental agents could be a source of teratogen. Rubella starts on the face of the affected individuals and spreads down the length of their torso. Rubella can cross the placenta of an infected pregnant woman to the embryo or fetus after the first week of incubation. Virus remains in the fetal blood stream for the remainder of the pregnancy and infants born with CRS can secrete the virus after birth, potentially infecting other infants and un-vaccinated adults. Primary agents of the virus are droplets spread from person to person when an infected person sneezes, coughs or talks. The effects of the virus are more several during the first trimester. The virus affects certain cell populations and causes increased cell death resulting in fetuses and infants born with lower birth weights. Developmental abnormalities of CRS include ocular, auditory, cardiovascular defects and central nervous system defects. It can also impede the blood flow and oxygenation of the blood supply of the fetus. The organ damage from CRS can include thyroid, spleen, liver, and bone marrow defects. There are no known cures for Rubella virus. Prevention is the best option. The germ layer affected by CRS are mostly ectoderm and mesoderm.
+
+#+CAPTION: Structure of the rubella virus
+#+NAME:   fig:rubella.jpg
+[[./rubella.jpg]]
+
+References:
+https://embryo.asu.edu/pages/congenital-rubella-syndrome-crs#:~:text=Rubella%20was%20one%20of%20the,during%20embryological%20and%20fetal%20development.
