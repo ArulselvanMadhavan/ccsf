@@ -1,30 +1,8 @@
-* Learning Tamil and English
-  The infusion of English into my school years as a required language
-  to earn jobs is still troubling me, and one that I think many
-  languages have been going through. In Tamil, every pronoun has a
-  suffix that indicates respect/acknowledge the age of the person you
-  are in conversation with. And, there are unique names(roles) for
-  everyone in the family tree. Starting from a very young age, people
-  are taught to address everyone with the appropriate respect suffix
-  that indicates their age. So, in conversations, it becomes clear who
-  is more older/senior than the other. This is especially true among
-  siblings. However, it's not uncommon to see siblings not use these
-  respectful suffixes. The reason is that disregarding the respect
-  among siblings or anyone you feel closer to was a sign of closeness
-  between them. Two brothers with age difference of 8 years will still
-  call each other using colloquial suffixes. But when they talk to
-  someone who is just an year or two older neighbor, they would use
-  the respectful suffixes. What happens when you don't the age of the
-  person, you are talking to? For example, a postman. If it's an adult
-  who is addressing the postman, they will use the respectful suffix
-  and if it's a youngster/child where the age difference is visible,
-  they would address them as "Anna" meaning brother. It is not
-  uncommon call people you just met, Anna(brother), Akka(sister),
-  Mama(Uncle), Athai(Aunt). When a child is growing and is invariably
-  mistakes and uses incorrect way of addressing someone, the parents
-  immediately correct them and ask them to say the correct word right
-  away. Most kids during my time were getting introduced to English
-  medium of instruction schools and it became the lingua franca in
-  schools eventhough the teachers and students weren't as adept in
-  using it. It was common to talk to a fellow student in tamil but
-  switch to English when you are talking to a teacher.
+*  By the age of five or six, most children everywhere have a good command of their mother tongue (even though, of course, their vocabularies are still limited). However, college students, and adults in general, find learning a foreign language quite difficult, and most learn to speak a second language only haltingly at best. How do you explain this phenomenon?
+  A child learns to speak its native language during its formative years, and as described by Ahearn as the Chomskyian view of language development, could exercise it's universal grammar or language specific model (Ahearn 2017, 73) and learn to speak any language that is suitable for its survival in the society that it grows up in. Often, language is the entry to a society. So, college students, adults or immigrants do tend to learn languages or socialize their language use depending on their needs as pointed out by Ahearn's example of African American hair stylists. But the language that they develop at a later stage is still a set of parameters to access the underlying universal grammar which was codified by people's native language. If language exercises the universal grammar or language specific model of the mind, then whatever language codifies it gets access to it. Subsequent languages provide superficial parameters to the parts of the brain to exercise it. For example, a bilingual person, who learned to sing and write in one language will much more comfortable to use that language to do that. If that same person, learned to express certain emotions in another language, then that person will feel comfortable using that language to enact that emotion or social performance. In the case of adults learning languages, they are building superficial parameters to parts of the brain that are already codified by the native language. My guess is that if they learn to exercise parts of the brain that aren't codified by the native language(if such a thing exists in their life at the time of them learning a language), then they will feel comfortable using the new language to perform that task
+
+* Contrary to what many folks believe, the United States has no official language. Reflecting on what we've learned so far in the class, what are some pros and cons of a nation not having an official language? FYI: American English is what is called a "de facto national language," which means that it is the predominate language spoken at this point in time; however, statistically, this has been changing quickly over the last century.
+  Pros: Country could get together behind an idea and debate rights in an "easier" way.
+  Cons: Reality is that we may never have one language in a country. Even if everybody starts speaking the official language, there will be variations in how they are used depending on the social contexts, cultural values, words taking different meanings depending on the context.
+  Another disadvantage is it could be a limiting factor. There is no such thing as one true language to exercise human brain effectively, it would limit people's ability to exercise certain parts of their brain efficiently. For example, hypothetically, one could say that French is a much better language for expressing facts. And English is a much better way for having conversations. If we are limiting someone to use only a certain language, it could mean that we are exercising some parts of the brain inefficiently, or a better way and much more truer way of saying it would be unnaturally.
+  
