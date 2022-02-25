@@ -1,0 +1,26 @@
+* Mendelian Genetics
+** Smith-Lemli-Optiz Syndrome
+*** Inheritance: Autosomal Recessive
+*** Onset: Infancy, Neonatal
+*** Presence: Rare. Mostly in Central and Northern Europe
+*** Affected Gene: DHCR7 gene in Chromosome 11
+
+    Since it's a recessive condition, both copies of the gene has to be problematic - reduced function or no function. This gene makes little to no DHCR7 protein in affected individuals. DHCR7 is active in most cells in the body. Its job is to help make cholesterol. Cholesterol resides in the cell membranes and is responsible for making the cell flexible and fluid. Cholesterol is also converted into Vitamin D, hormones and bile salts. Probelmatic individuals exhibit symptoms like brain function, hormone signaling and digestion. SLOS is very important in embryonic development. So, most of the conditions, an individual develops happens before birth. Most affected organ is the brain. Brain has lot of cell membranes and hence needs cholesterol. Symptoms in individualls can be managed with Vitamin D supplements, Cholesterol supplements, bile salts and certain steroid hormones. SLOS can be screened for in pregnancy. Surgery can repair cleft palate and repair some of the other physical effects. Clothing and sunscreen can protect the skin from damage. And other therapies can be given to great benefit to young children.
+
+    Punnett Square
+| Parents         | No-SLOS | SLOS |
+|-----------------+---------+------|
+| No-SLOSxNS      | NSxNS   | NSxS |
+| SLOS(recessive) | SxNS    | SxS  |
+
+Only people with both recessive gene gets the disease.
+
+#+CAPTION: SLOS gene
+#+NAME:   fig:slos-gene
+[[./slos-gene.jpg]]
+
+References:
+[[https://learn.genetics.utah.edu/content/disorders/singlegeneeg][SLOS-Utah genetics lab]]
+[[https://mydoctor.kaiserpermanente.org/ncal/specialty/genetics/resources/conditions/slos.jsp][Kaiser Permanente SLOS info]]
+
+    
