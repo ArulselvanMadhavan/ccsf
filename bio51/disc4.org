@@ -19,8 +19,8 @@ Only people with both recessive gene gets the disease.
 #+NAME:   fig:slos-gene
 [[./slos-gene.jpg]]
 
-References:
-[[https://learn.genetics.utah.edu/content/disorders/singlegeneeg][SLOS-Utah genetics lab]]
-[[https://mydoctor.kaiserpermanente.org/ncal/specialty/genetics/resources/conditions/slos.jsp][Kaiser Permanente SLOS info]]
+*** References:
+    - [[https://learn.genetics.utah.edu/content/disorders/singlegeneeg][SLOS-Utah genetics lab]]
+    - [[https://mydoctor.kaiserpermanente.org/ncal/specialty/genetics/resources/conditions/slos.jsp][Kaiser Permanente SLOS info]]
 
     
