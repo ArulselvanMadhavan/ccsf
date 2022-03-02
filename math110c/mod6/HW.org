@@ -1,0 +1,4 @@
+* HW6
+  - [[https://geogebra.org/classic/sznansca][Q4]]
+  - [[https://geogebra.org/classic/vwuyghcm][Q5]]
+  - 

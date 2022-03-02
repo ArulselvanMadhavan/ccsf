@@ -1,0 +1,26 @@
+* Penetrance and Expressivity
+** Eye color
+   Chromosome 15 contains the genes that are responsible for our eye color. Eye color is expressed based on the production of a pigment called melanin. High melanin production leads to brown eye color. Brown is the dominant eye color in the world. Blue and green are the less common ones. They are usually found in people with European ancestry. The genes responsible for melanin production in Iris are OCA2 and HERC2. Protien produced from the OCA2 gene are known as the P protein. This P protein directly is responsible for the melanin content in the eye. HERC2 gene has a region called intron 86 that controls the expressivity of the OCA2 gene and melanin. Because of genes OCA2 and HERC2, eye colors in humans are a continuum rather than just blue or brown. The color ranges from light blue to brown. Two people with green/blue eyes could have a kid with brown eyes because the parents could have had higher expressivity of the HERC2 which suppressed the melanin in Iris.
+
+   Ocular albinism and Oculucutaneous albinism are two conditions identified to the expression of reduced pigmentation in Iris. Affected individuals tend to have very light-colored irises, fair skin, and white or light-colored hair. There is also one more condition that came up in my research called heterochromia. The inheritance pattern of eye colors is not well understood yet
+
+   #+CAPTION: Eye color variations due to variable penetrance and variable expression.
+   #+NAME:   fig:Eye colors expressed in a spectrum
+   [[./eye_colors.jpeg]]
+
+   #+CAPTION: Ocular Albinism
+   #+NAME: Ocular Albinism
+   [[./ocular_albinism.jpeg]]
+
+   #+CAPTION: Oculocutaneous Albinism
+   #+NAME: Oculocutaneous Albinism
+   [[./oculocutaneous-albinism.jpeg]]
+
+   #+CAPTION: Heterochromia
+   #+NAME: Heterochromia
+   [[./Heterochromia.jpeg]]
+   
+*** References
+    - https://blog.helix.com/genetics-penetrance-expressivity-definition/
+    - https://medlineplus.gov/genetics/understanding/traits/eyecolor/#:~:text=Eye%20color%20is%20determined%20by,front%20layers%20of%20the%20iris.
+    - https://www.nature.com/articles/jhg2010126

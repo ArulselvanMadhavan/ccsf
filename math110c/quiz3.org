@@ -1,0 +1,18 @@
+* Quiz 3
+  - [[https://geogebra.org/classic/fftdarky][Q1]]
+    - r
+    - v
+    - a
+    - T = v/|v|
+    - vxa
+    - B = |vxa|/|v|
+    - N = B x T
+    - k = |vxa|/|v|^3
+    - torsion = ((vxa).a')/|vxa|^2
+    - Arc length = Integral(1 to 2) |v(t)|
+  - [[https://www.geogebra.org/classic/nssv4kpg][Q2]]
+    - [[https://www.geogebra.org/classic/nssv4kpg][Q2]]
+  - [[https://www.geogebra.org/classic#3d][Q3]]
+    - z = x/y^2; CM#2;
+    - z = x^2/y;
+    - 
