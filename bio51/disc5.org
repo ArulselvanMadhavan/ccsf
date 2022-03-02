@@ -18,7 +18,7 @@
 
    #+CAPTION: Heterochromia
    #+NAME: Heterochromia
-   [[./Heterochromia.jpeg]]
+   [[./heterochromia.jpeg]]
    
 *** References
     - https://blog.helix.com/genetics-penetrance-expressivity-definition/
