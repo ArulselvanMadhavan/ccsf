@@ -1,0 +1,20 @@
+***** X-linked agammaglobulinemia(XLA)
+      XLA affects white blood cell formation process. As a result, the blood stream does not have mature B-cells which are needed to produce protein called gamma globulins. B-cells are responsible for producing antibodies(immunoglobulins). They protect the body from infections by sustaining humoral immunity response.
+
+      A mutation occurs in the Bruton's Tyrosine Kinase(BTK) gene. The BTK gene is present on X chromosome(Xq21.3-q22). The mutation in the BTK gene leads to the block of B-cell development which manifests as low immunoglobulin production in the serum.
+
+      This disease follows X-linked Recessive inheritance pattern. Affects males 50% of the time if the mother is a carrier. For the first 6-9 months, maternal antibodies protect the child but after that disease presents itself by making the baby susceptible to variety of infections. Examples include: Streptococcus pneumoniae, Haemophilus influenzae, Mycoplasma pneumoniae, hepatitis virus, and enterovirus CNS infections.
+
+      It is also worth mentioning that XLA patients have to be careful about vaccines. Live attenuated viruses as vaccines for XLA patients can be dangerous. Also, XLA patients lack immune memory since they have to be intravenously infused with immunoglobulins every week for life.
+
+#+CAPTION: B cell
+#+NAME:   fig:bcell.jpg
+[[./bcell.jpg]]
+
+#+CAPTION: Immunoglobulin
+#+NAME: fig: ig.jpg
+[[./ig.jpg]]
+
+#+CAPTION: BTK gene
+#+NAME: fig: BTK-gene.png
+[[./BTK-gene.png]]
