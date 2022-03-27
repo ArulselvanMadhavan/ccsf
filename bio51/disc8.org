@@ -1,0 +1,27 @@
+Testis has the largest gene expression in the human body. Gene
+expression in these cells account for 84%(15,518) of the genes are
+expressed here. 24 genes are predominantly expressed in testis. Most
+of them are spermatocytes and spermatids. Testis is the human organ
+that contains sperm cells. There are genes that are expressed higher
+in sperms, and there are genes that are only expressed in sperm cells.
+DMRT1 - a transcription factor primarily expressed in the nuclei of
+spermatogonia, which plays a key role in male sex determination and
+differentiation by controlling testis development and male germ cell
+proliferation.  PASD1 is a cancer-associated antigen and a nuclear
+suppressor of the biological clock. Another example of a
+cancer-associated antigen is SAGE1. The gene MAGEC1 encodes a member
+of the melanoma antigen gene (MAGE) family.
+
+One example of a gene expressed in Sertoli cells is SLCO6A1, currently
+with evidence only at transcript level. The INSL3 gene, specifically
+expressed in Leydig cells, is suggested to be involved in the
+development of the urogenital tract and involved in intra-abdominal
+testicular descent.
+
+#+CAPTION: Leydig cells
+#+NAME:   fig:leydig.jpg
+[[./leydig.png]]
+
+*** References
+    - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2781110/
+    - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5393594/#:~:text=Our%20comparative%20analysis%20of%20GEO,in%20spermatocytes%20and%20round%20spermatids.

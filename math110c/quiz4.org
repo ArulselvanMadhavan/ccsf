@@ -1,0 +1,11 @@
+* Quiz 4
+  - Problem 1
+    - a) 3
+    - b)DNE; Check lim x = y or x = -y
+  - [[https://geogebra.org/classic/qytvvpnv][P2]]
+    - f(x,y) = cos(x)cos(2y)
+      - a) (0.44 - 0.52)/0.1 = -0.8; (0.52-0.6)/0.1 = -0.8; Ans: fx: -0.8
+        - (0.52-0.48)/0.1 = 0.4; (0.54-0.52)/0.1= 0.2; 0.3
+      - b) -0.81; 0.3
+  - [[https://geogebra.org/classic/xgbpr6bb][P3]]
+    - 
