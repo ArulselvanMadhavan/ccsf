@@ -1,0 +1,42 @@
+* X-linked Adrenoleukodystrophy
+**** Gene: ABCD1
+**** Protein involved: ALDP (AdrenoLeukoDystrophyProtein)
+**** Role of protein: Transporter. Carries very long fatty acids into peroxisomes.
+**** Mutation Effect: Deficiency of ALDP protein
+**** Affected Region: Peroxisome
+**** Expressivity Variations:
+     1. Childhood cerebral ALD
+     2. Adult Cerebral ALD
+     3. Adrenomyeloneuropathy
+     4. Addison's disease
+**** Mutations and their phenotype expression
+     Despite identical mutations, patients can have markedly divergent neurological and neuropathologic characteristics.
+     Currently it is believed that the phenotype variability is influenced by atleast one other autosomal modifier gene.
+     Environmental factors like head trauma could be a trigger.
+     A stroke could also trigger cerebral demyelination in patients with X-linked ALD.
+     Even large deletions or frameshift mutations leading to the complete absence of protein can lead to the milder AMN phenotype.
+     Even in monozygotic twins, different clinical phenotypes have been observed.
+     Certain mutations exclusively lead to specific phenotypes or affect the age of onset of first AMN symptoms, but this question has not yet been studied in detail.
+     The main reasons for that are the low number of patients with identical mutations as well as the current lack of knowledge concerning the influence of environmental factors because this might confound characteristic phenotypes of particular mutations.     
+**** Observed Gene Mutations
+     - Severe childhood ALD:
+       - In the 5' portion of the X-ALD gene a 38-bp deletion that causes a frameshift mutation
+       - a 3-bp deletion leading to a deletion of an amino acid in the ATP-binding domain of the ALD protein
+       - Missense mutation
+     - AMN:
+       - a nonsense mutation in codon 212
+       - a second site mutation at codon 178
+     - Addison Disease
+       - Missense mutation in the highly conserved portion of ALDP
+
+#+CAPTION: XALD
+#+NAME:   fig:XLAD.png
+[[./XALD.png]]
+
+**** References
+     - https://www.dovepress.com/the-genetic-landscape-of-x-linked-adrenoleukodystrophy-inheritance-mut-peer-reviewed-fulltext-article-TACG
+     - https://medlineplus.gov/genetics/condition/x-linked-adrenoleukodystrophy/#synonyms
+     - https://pubmed.ncbi.nlm.nih.gov/11748843/
+     - https://rarediseases.org/rare-diseases/adrenoleukodystrophy/
+     - https://ojrd.biomedcentral.com/articles/10.1186/1750-1172-7-51#:~:text=X%2Dlinked%20adrenoleukodystrophy%20(X%2DALD)%20is%20the%20most,(VLCFA%3B%20%E2%89%A5C22).
+
