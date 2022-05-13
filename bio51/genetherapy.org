@@ -5,3 +5,10 @@ Gene therapy can be used to halt the progression of ALD. Researchers used a lent
 #+CAPTION: Gene Therapy for ALD
 #+NAME:   fig:ald_gene.png
 [[./ald_gene.png]]
+
+References:
+1. https://www.hopkinsmedicine.org/health/conditions-and-diseases/adrenoleukodystrophy#:~:text=Adrenoleukodystrophy%20(ALD)%20is%20a%20genetic,insulation%20around%20the%20nerve%20fibers.
+2. https://www.mayoclinic.org/diseases-conditions/adrenoleukodystrophy/symptoms-causes/syc-20369157
+3. https://www.clinicalresearchforum.org/page/GeneTherapy#:~:text=Researchers%20used%20a%20lentivirus%20to,halt%20a%20fatal%20brain%20disease.
+4. https://clinicaltrials.gov/ct2/show/NCT03727555
+5. https://www.biospace.com/article/drug-price-watchdog-says-bluebird-bio-s-2-1-million-gene-therapy-worth-it/
