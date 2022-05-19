@@ -1,0 +1,26 @@
+* Research: The Cancer Target Discovery and Development Network at UCSF
+
+I have chosen to write about the use of genomics in cancer discovery. The research I picked is from UCSF's CTD team. Their main focus is to identify how large number of genetic alterations in cells contribute to cancer. They aim to do that by a systematic exploration of the functional roles of these gene alterations. They propose that this will help in developing effective cance therapeutics.
+
+* How?
+UCSF's CTD team uses in-depth mining of large scale genomic data and system biology analysis to characterize the functional roles of genetic lesions in driving tumor formation and growth.
+
+* Current State:
+CRISPR based screening and ultra high throughput single cell protocols to perform comprehensive screens to identify genes essential for cancer initiation, maintenance and metastasis.
+
+* Future:
+In the current phase, the Center proposes to i. utilize the novel single-cell CRISPR platform to functionalize the cancer genomic data and associate genes with novel drug resistance mechanisms, ii. organize recurrently altered cancer genes from genome characterization initiatives into pathways associated with clinical resistance to understand functional impacts of inter- and intra-tumoral heterogeneity, iii. develop and apply methodologies to annotate pathways critical for tumor microenvironment interactions, and iv. construct genetic epistasis maps to identify and distinguish cancer drivers vs. passengers to uncover the optimal combinations of perturbagens with the potential to eliminate all cancer cells, despite their clonal heterogeneity and environmental context.
+
+* Impact
+  The main impact is a deeper understanding of which genes are responsible for initiating cancer, maintaining it and causing metastasis. There are lots of cancer related deaths. Identifying the genes responsible for it, will provide a massive boost to gene therapy work, help drug discovery, make cancer not a death sentence.
+
+#+CAPTION: Cancer
+#+NAME:   fig:cancer
+[[./cancer.png]]
+
+
+#+CAPTION: CRISPR
+#+NAME:   fig:crispr
+[[./cancer-cell-and-lymphocytes.jpg]]
+
+
