@@ -1,0 +1,16 @@
+* Taxonomy seems to be an ever-changing field of study.  What do you think is the most effective way or ways to group organisms taxonomically? Why do you feel this way?
+
+The most effective way to group organisms could be multi-layered. For
+example, morphological taxonomy is easy to understand and relate to
+for field biologists. The genetic/biochemical taxonomy could make a
+more detailed classifications and find it's use in theoretical
+explorations. The numerical taxonomy has it's uses in
+paleo/evolutionary biology helping discover new organisms or
+establish similarity metrics between existing ones. Grouping millions
+of years of biological organisms with natural selection and random
+mutations is not going to be an easy task. So, we have to allow
+taxonomy to be somewhat multi-layered in it's groupings. The benefits
+of standardization can be realized in areas where it makes sense to
+merge the layers - for example: organisms/classifications where the
+morphological, genetic, numerical taxonomy all agree that some
+organismss are related
