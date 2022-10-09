@@ -27,15 +27,15 @@ Major Rock types
 Andesite / Basaltic Andesite
 Basalt / Picro-Basalt
 
-*** Location: Albay Gulf NW of Legazpi City, Philippines. 
-*** Physical characteristics: Steep upper slopes with a small summit crater. 
-*** Recorded eruptions: Since 1616 CE 
-*** Erupted Materials: Strombolian to basaltic Plinian, with cyclical activity beginning with basaltic eruptions, followed by longer term andesitic lava flows. 
+**** Location: Albay Gulf NW of Legazpi City, Philippines. 
+**** Physical characteristics: Steep upper slopes with a small summit crater. 
+**** Recorded eruptions: Since 1616 CE 
+**** Erupted Materials: Strombolian to basaltic Plinian, with cyclical activity beginning with basaltic eruptions, followed by longer term andesitic lava flows. 
 
- Eruptions occur predominately from the central conduit and have also produced lava flows that travel far down the
- flanks. Pyroclastic flows and mudflows have commonly swept down many
- of the approximately 40 ravines that radiate from the summit and have
- often damaged populated lowland areas. 
+  Eruptions occur predominately from the central conduit and have also produced lava flows that travel far down the
+  flanks. Pyroclastic flows and mudflows have commonly swept down many
+  of the approximately 40 ravines that radiate from the summit and have
+  often damaged populated lowland areas. 
 
 * Scale
 2462 m / 8077 ft
